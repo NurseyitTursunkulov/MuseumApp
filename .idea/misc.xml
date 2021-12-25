@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../../../layout/custom_preview.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/barcode_field_box.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_live_barcode.xml" value="0.10833333333333334" />
+        <entry key="app/src/main/res/layout/activity_static_object.xml" value="0.125" />
+        <entry key="app/src/main/res/layout/barcode_bottom_sheet.xml" value="0.18125" />
+        <entry key="app/src/main/res/layout/barcode_field.xml" value="0.18125" />
+        <entry key="app/src/main/res/layout/detection_mode_item.xml" value="0.18125" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_13" default="true" project-jdk-name="13" project-jdk-type="JavaSDK" />
+</project>

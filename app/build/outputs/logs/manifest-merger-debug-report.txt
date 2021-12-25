@@ -1,0 +1,635 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/nurseyit/Desktop/material-showcase/app/src/main/AndroidManifest.xml:2:1-67:12
+INJECTED from /Users/nurseyit/Desktop/material-showcase/app/src/main/AndroidManifest.xml:2:1-67:12
+INJECTED from /Users/nurseyit/Desktop/material-showcase/app/src/main/AndroidManifest.xml:2:1-67:12
+INJECTED from /Users/nurseyit/Desktop/material-showcase/app/src/main/AndroidManifest.xml:2:1-67:12
+MERGED from [io.coil-kt:coil-compose:1.4.0] /Users/nurseyit/.gradle/caches/transforms-3/c6844bf16e8c403e8e94eee4876167e5/transformed/jetified-coil-compose-1.4.0/AndroidManifest.xml:2:1-9:12
+MERGED from [io.coil-kt:coil:1.4.0] /Users/nurseyit/.gradle/caches/transforms-3/4f704c76c1e6f85a7c533051bbf27252/transformed/jetified-coil-1.4.0/AndroidManifest.xml:2:1-9:12
+MERGED from [io.coil-kt:coil-compose-base:1.4.0] /Users/nurseyit/.gradle/caches/transforms-3/82f312856e19d570ec55f73915998bbd/transformed/jetified-coil-compose-base-1.4.0/AndroidManifest.xml:2:1-9:12
+MERGED from [io.coil-kt:coil-base:1.4.0] /Users/nurseyit/.gradle/caches/transforms-3/f0be2734da7133444ebb571ecf92134c/transformed/jetified-coil-base-1.4.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.volley:volley:1.2.1] /Users/nurseyit/.gradle/caches/transforms-3/aa651f8fde60e3c6295bc060ede7e0ed/transformed/jetified-volley-1.2.1/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.material:compose-theme-adapter:1.0.5] /Users/nurseyit/.gradle/caches/transforms-3/b6f8b76bba1307acfaf290a54e3bfedc/transformed/jetified-compose-theme-adapter-1.0.5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.material:material:1.4.0] /Users/nurseyit/.gradle/caches/transforms-3/4bd333fa3176a6eda81379a5dca8db5a/transformed/material-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.mlkit:object-detection:16.2.8] /Users/nurseyit/.gradle/caches/transforms-3/64b9f2f4815cc5507b6bfefbab0da03d/transformed/jetified-object-detection-16.2.8/AndroidManifest.xml:2:1-20:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] /Users/nurseyit/.gradle/caches/transforms-3/4aaa627a8cf7b0975687baf4b71690be/transformed/lifecycle-extensions-2.1.0/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.preference:preference-ktx:1.1.1] /Users/nurseyit/.gradle/caches/transforms-3/018f6f1803f4a18069e1d672a287a21b/transformed/jetified-preference-ktx-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.accompanist:accompanist-appcompat-theme:0.16.0] /Users/nurseyit/.gradle/caches/transforms-3/14742aee49db921c7e3108b4fa063365/transformed/jetified-accompanist-appcompat-theme-0.16.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment-ktx:1.2.4] /Users/nurseyit/.gradle/caches/transforms-3/3a45c6fc38b6060a320184f4b4a72e68/transformed/jetified-fragment-ktx-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-tooling:1.0.5] /Users/nurseyit/.gradle/caches/transforms-3/363232c784365059085a7dd59073726a/transformed/jetified-ui-tooling-1.0.5/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.activity:activity-compose:1.4.0] /Users/nurseyit/.gradle/caches/transforms-3/a87d75d12f9e579cb96f6181a191a085/transformed/jetified-activity-compose-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.4.0] /Users/nurseyit/.gradle/caches/transforms-3/40904d48bd614a361082eb146b21f583/transformed/jetified-activity-ktx-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.7.0] /Users/nurseyit/.gradle/caches/transforms-3/295d23387cf3238f1f85c40b117d0a80/transformed/jetified-core-ktx-1.7.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/nurseyit/.gradle/caches/transforms-3/8825f59cd750d2777154bf3a27607ea1/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/nurseyit/.gradle/caches/transforms-3/01156a3cfd22340f7b08252b73c02fd9/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/nurseyit/.gradle/caches/transforms-3/bf1ce79bd224b1af983270478ac76d8c/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/nurseyit/.gradle/caches/transforms-3/40ec0852a51c0574de8d5ca8b1dc64f2/transformed/constraintlayout-2.0.1/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.preference:preference:1.1.1] /Users/nurseyit/.gradle/caches/transforms-3/eccf6f3ec930f86eca996572810008e8/transformed/preference-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.3.0] /Users/nurseyit/.gradle/caches/transforms-3/bf5159bc881af461634ffee26beba306/transformed/appcompat-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] /Users/nurseyit/.gradle/caches/transforms-3/3aa41fe76e161d67270bf9e958ee9465/transformed/jetified-appcompat-resources-1.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/nurseyit/.gradle/caches/transforms-3/543e30110c1e8715255df509b75a8ff3/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/nurseyit/.gradle/caches/transforms-3/dbd20f5c3a57634654aac2965ca75923/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/nurseyit/.gradle/caches/transforms-3/339e9bb1702439ce4c12dd3e583458b6/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/nurseyit/.gradle/caches/transforms-3/10675a61037ca358ea56db4337ee0c6d/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.mlkit:barcode-scanning:17.0.1] /Users/nurseyit/.gradle/caches/transforms-3/f0ab0b4056cdab7f35a0e19456169965/transformed/jetified-barcode-scanning-17.0.1/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.mlkit:object-detection-custom:16.3.4] /Users/nurseyit/.gradle/caches/transforms-3/ddc4f084a3e982b878c17cd9b61f8211/transformed/jetified-object-detection-custom-16.3.4/AndroidManifest.xml:2:1-17:12
+MERGED from [com.google.android.gms:play-services-mlkit-barcode-scanning:17.0.0] /Users/nurseyit/.gradle/caches/transforms-3/20fbb9f23450dbdfe86653b46e5774f6/transformed/jetified-play-services-mlkit-barcode-scanning-17.0.0/AndroidManifest.xml:2:1-18:12
+MERGED from [com.google.mlkit:barcode-scanning-common:16.0.0] /Users/nurseyit/.gradle/caches/transforms-3/f4535c9eb59e61fce4f466d2605b19fa/transformed/jetified-barcode-scanning-common-16.0.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.mlkit:object-detection-common:17.2.0] /Users/nurseyit/.gradle/caches/transforms-3/c465a557b8459b8f80f3ce75b6f50367/transformed/jetified-object-detection-common-17.2.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.mlkit:vision-internal-vkp:18.2.1] /Users/nurseyit/.gradle/caches/transforms-3/bc1262a9a9efe4e6a1d102c12ded9cdb/transformed/jetified-vision-internal-vkp-18.2.1/AndroidManifest.xml:2:1-20:12
+MERGED from [com.google.mlkit:vision-common:16.7.0] /Users/nurseyit/.gradle/caches/transforms-3/b6aca4c478f4adaa6d2c89f0c2e20a48/transformed/jetified-vision-common-16.7.0/AndroidManifest.xml:2:1-18:12
+MERGED from [com.google.mlkit:common:17.5.0] /Users/nurseyit/.gradle/caches/transforms-3/89808dfdc2ebe29f28d8570b0b0171af/transformed/jetified-common-17.5.0/AndroidManifest.xml:2:1-26:12
+MERGED from [com.google.android.gms:play-services-base:17.6.0] /Users/nurseyit/.gradle/caches/transforms-3/c15488f86b61287e1792d3a4472e97ad/transformed/jetified-play-services-base-17.6.0/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:17.2.1] /Users/nurseyit/.gradle/caches/transforms-3/4dac3bdf3c38b0b3725943734ac7f354/transformed/jetified-play-services-tasks-17.2.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.6.0] /Users/nurseyit/.gradle/caches/transforms-3/6f25e8a8c7fa50f1d20097ec25e04209/transformed/jetified-play-services-basement-17.6.0/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/nurseyit/.gradle/caches/transforms-3/094ac0d5e69bc6535118c6d867ebeb4a/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/nurseyit/.gradle/caches/transforms-3/a864116139c4b2a9dd5df1bf3287fd8f/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.3.4] /Users/nurseyit/.gradle/caches/transforms-3/68b53df328ac6bcfeb9e1fb81c9bd418/transformed/fragment-1.3.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/nurseyit/.gradle/caches/transforms-3/b350bda6c90d7051cb1920134210f8db/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/nurseyit/.gradle/caches/transforms-3/1b7203f0f001916b05277597a7ec5938/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/nurseyit/.gradle/caches/transforms-3/dbd09dbf58e9b774c9c9edc93f418566/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/nurseyit/.gradle/caches/transforms-3/446188d8e55aa7ae7b7cab85b9af3265/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.4.0] /Users/nurseyit/.gradle/caches/transforms-3/661fa9aeff6fb4ae4e6ebd957d49869a/transformed/jetified-activity-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:1.0.0-alpha07] /Users/nurseyit/.gradle/caches/transforms-3/3dbba3f086ed879eff4b135a0ca3e205/transformed/jetified-lifecycle-viewmodel-compose-1.0.0-alpha07/AndroidManifest.xml:17:1-24:12
+MERGED from [io.github.dmitrymysenko:textaroundcontent:0.1.0] /Users/nurseyit/.gradle/caches/transforms-3/c1b8f7127a18493206d8b12cb2d79cbb/transformed/jetified-textaroundcontent-0.1.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-data:1.0.5] /Users/nurseyit/.gradle/caches/transforms-3/568c7126214ee824bc9d00ac6a4824c4/transformed/jetified-ui-tooling-data-1.0.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.material:material:1.1.0-beta03] /Users/nurseyit/.gradle/caches/transforms-3/1b8d3034ac32e54e36ac4a054d4561c7/transformed/jetified-material-1.1.0-beta03/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.accompanist:accompanist-drawablepainter:0.19.0] /Users/nurseyit/.gradle/caches/transforms-3/896b4cb8bc3c5bdae7c9c628307ec29f/transformed/jetified-accompanist-drawablepainter-0.19.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.material:material-ripple:1.1.0-beta03] /Users/nurseyit/.gradle/caches/transforms-3/edcfecf2f375664f44c3d38a3eb5d04d/transformed/jetified-material-ripple-1.1.0-beta03/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.foundation:foundation:1.1.0-beta03] /Users/nurseyit/.gradle/caches/transforms-3/02a4662a72344335b78b4668d13c627a/transformed/jetified-foundation-1.1.0-beta03/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.animation:animation:1.1.0-beta03] /Users/nurseyit/.gradle/caches/transforms-3/020641faee5b3c6f9ca44306ee8edf58/transformed/jetified-animation-1.1.0-beta03/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.foundation:foundation-layout:1.1.0-beta03] /Users/nurseyit/.gradle/caches/transforms-3/6b130e3219df54357948025d872d217a/transformed/jetified-foundation-layout-1.1.0-beta03/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.material:material-icons-core:1.1.0-beta03] /Users/nurseyit/.gradle/caches/transforms-3/bd824378c9f29ac1f18d0f162a834961/transformed/jetified-material-icons-core-1.1.0-beta03/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.animation:animation-core:1.1.0-beta03] /Users/nurseyit/.gradle/caches/transforms-3/d9a10a649bf45ec06cc63ec8a666116e/transformed/jetified-animation-core-1.1.0-beta03/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui:1.1.0-beta03] /Users/nurseyit/.gradle/caches/transforms-3/f0cbd205d73111eb99f5ccb0b1ede873/transformed/jetified-ui-1.1.0-beta03/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-text:1.1.0-beta03] /Users/nurseyit/.gradle/caches/transforms-3/f83924a1cf6873d7ab8df053423073aa/transformed/jetified-ui-text-1.1.0-beta03/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/nurseyit/.gradle/caches/transforms-3/d62e686891cfd0e57b11a989a5e6f032/transformed/jetified-autofill-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.7.0] /Users/nurseyit/.gradle/caches/transforms-3/15905d627d233875ccbff735f67f1a55/transformed/core-1.7.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.4.0] /Users/nurseyit/.gradle/caches/transforms-3/fa8f2e8b824311dad7106aa04e3d8ab7/transformed/jetified-lifecycle-viewmodel-ktx-2.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/nurseyit/.gradle/caches/transforms-3/08967bd0dcccc8f972d1ab7d0debc6f6/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.4.0] /Users/nurseyit/.gradle/caches/transforms-3/ae35c341b4017267429024d85f8b2e6c/transformed/lifecycle-viewmodel-2.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/nurseyit/.gradle/caches/transforms-3/c7301b60fd7454c0d5d834789c42dd2f/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/nurseyit/.gradle/caches/transforms-3/8fef2d38bef13e0c97a562eac0fb7522/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:15:1-41:12
+MERGED from [com.google.android.datatransport:transport-api:2.2.1] /Users/nurseyit/.gradle/caches/transforms-3/fe79602ebeabc911e7be23b35c3500e5/transformed/jetified-transport-api-2.2.1/AndroidManifest.xml:15:1-22:12
+MERGED from [com.google.firebase:firebase-components:16.1.0] /Users/nurseyit/.gradle/caches/transforms-3/05aa50bd83a6c809584c98f1c0192bde/transformed/jetified-firebase-components-16.1.0/AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.firebase:firebase-encoders-json:17.1.0] /Users/nurseyit/.gradle/caches/transforms-3/d42cea0a3d1f24187faa8225dcff1427/transformed/jetified-firebase-encoders-json-17.1.0/AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.compose.ui:ui-tooling-preview:1.0.5] /Users/nurseyit/.gradle/caches/transforms-3/33001b2ba9a4d2af71732d9adc7c3925/transformed/jetified-ui-tooling-preview-1.0.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/nurseyit/.gradle/caches/transforms-3/afc3b2a17d3eb14b5775579ea9bdf5dd/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] /Users/nurseyit/.gradle/caches/transforms-3/d1f000db0858bfad0289519b73d627f7/transformed/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] /Users/nurseyit/.gradle/caches/transforms-3/bb5fdedb47397e5a395f270f026318a4/transformed/jetified-lifecycle-service-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] /Users/nurseyit/.gradle/caches/transforms-3/f23609fd076969e3ed68f1a17eeeedfb/transformed/jetified-lifecycle-runtime-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/nurseyit/.gradle/caches/transforms-3/7e0441040015bda0df1f9c113aa47337/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] /Users/nurseyit/.gradle/caches/transforms-3/b49c8f8c7a36abed0da2042ab6d5b347/transformed/lifecycle-livedata-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] /Users/nurseyit/.gradle/caches/transforms-3/48afaf6bd5766add6afddd5b66d51dca/transformed/jetified-lifecycle-livedata-core-ktx-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/nurseyit/.gradle/caches/transforms-3/73c0309665eb6d64ec5dad88f296c160/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/nurseyit/.gradle/caches/transforms-3/a53d8d40ad30649e011b5e3f16f58801/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] /Users/nurseyit/.gradle/caches/transforms-3/74b290f00374eae7c3a3a4069ac43b67/transformed/jetified-savedstate-ktx-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/nurseyit/.gradle/caches/transforms-3/77500e8814b7633aa71997ee5ad9420f/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/nurseyit/.gradle/caches/transforms-3/35b45e2bae1381009989c0d7eecbff16/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] /Users/nurseyit/.gradle/caches/transforms-3/83888bbd862b335696e132359aedd4d6/transformed/exifinterface-1.3.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.runtime:runtime-saveable:1.1.0-beta03] /Users/nurseyit/.gradle/caches/transforms-3/29aec7c1482732410a89a65454db99c7/transformed/jetified-runtime-saveable-1.1.0-beta03/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-graphics:1.1.0-beta03] /Users/nurseyit/.gradle/caches/transforms-3/a688b114d71eda6822f47287f1a20087/transformed/jetified-ui-graphics-1.1.0-beta03/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-unit:1.1.0-beta03] /Users/nurseyit/.gradle/caches/transforms-3/0138be3929ea42df154c7a2569ecec67/transformed/jetified-ui-unit-1.1.0-beta03/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-geometry:1.1.0-beta03] /Users/nurseyit/.gradle/caches/transforms-3/e0650a3af2a8e02e845c9490e18d64c2/transformed/jetified-ui-geometry-1.1.0-beta03/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.runtime:runtime:1.1.0-beta03] /Users/nurseyit/.gradle/caches/transforms-3/efd5903ea6491ec7fe584b713ecd012b/transformed/jetified-runtime-1.1.0-beta03/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.1.0-beta03] /Users/nurseyit/.gradle/caches/transforms-3/c795caa482fab2ad0c62fd4029597206/transformed/jetified-profileinstaller-1.1.0-beta03/AndroidManifest.xml:17:1-48:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/nurseyit/.gradle/caches/transforms-3/3c5ec009ced95822557017a1976f0fd0/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/nurseyit/.gradle/caches/transforms-3/e958945b49e73c2d618ab37667304198/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/nurseyit/.gradle/caches/transforms-3/948a3555f8b5f931477aa4aeb2606c29/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/nurseyit/.gradle/caches/transforms-3/5810a7aefee6861a6bfe60dbe3282d21/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/nurseyit/.gradle/caches/transforms-3/a44f72db8c5b450a22d47de96a766cda/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/nurseyit/.gradle/caches/transforms-3/b59d22f6725d58ca4c8c1ff61be34df8/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-util:1.1.0-beta03] /Users/nurseyit/.gradle/caches/transforms-3/ae20e85e3c53f363478c17ceeead5fec/transformed/jetified-ui-util-1.1.0-beta03/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/nurseyit/.gradle/caches/transforms-3/9fbe4d67d461d5cfb33ee220c2f48da1/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.odml:image:1.0.0-beta1] /Users/nurseyit/.gradle/caches/transforms-3/5ddf32dc88c0a9753e0ec2bbc312ad9a/transformed/jetified-image-1.0.0-beta1/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/nurseyit/Desktop/material-showcase/app/src/main/AndroidManifest.xml:2:1-67:12
+INJECTED from /Users/nurseyit/Desktop/material-showcase/app/src/main/AndroidManifest.xml:2:1-67:12
+INJECTED from /Users/nurseyit/Desktop/material-showcase/app/src/main/AndroidManifest.xml:2:1-67:12
+	package
+		ADDED from /Users/nurseyit/Desktop/material-showcase/app/src/main/AndroidManifest.xml:4:5-34
+		INJECTED from /Users/nurseyit/Desktop/material-showcase/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/nurseyit/Desktop/material-showcase/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/nurseyit/Desktop/material-showcase/app/src/main/AndroidManifest.xml
+		ADDED from /Users/nurseyit/Desktop/material-showcase/app/src/main/AndroidManifest.xml:2:1-67:12
+		INJECTED from /Users/nurseyit/Desktop/material-showcase/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/nurseyit/Desktop/material-showcase/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/nurseyit/Desktop/material-showcase/app/src/main/AndroidManifest.xml
+		ADDED from /Users/nurseyit/Desktop/material-showcase/app/src/main/AndroidManifest.xml:2:1-67:12
+		INJECTED from /Users/nurseyit/Desktop/material-showcase/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/nurseyit/Desktop/material-showcase/app/src/main/AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from /Users/nurseyit/Desktop/material-showcase/app/src/main/AndroidManifest.xml:5:5-35
+uses-feature#android.hardware.camera
+ADDED from /Users/nurseyit/Desktop/material-showcase/app/src/main/AndroidManifest.xml:7:3-57
+	android:name
+		ADDED from /Users/nurseyit/Desktop/material-showcase/app/src/main/AndroidManifest.xml:7:17-55
+uses-permission#android.permission.INTERNET
+ADDED from /Users/nurseyit/Desktop/material-showcase/app/src/main/AndroidManifest.xml:9:3-64
+MERGED from [com.google.mlkit:object-detection:16.2.8] /Users/nurseyit/.gradle/caches/transforms-3/64b9f2f4815cc5507b6bfefbab0da03d/transformed/jetified-object-detection-16.2.8/AndroidManifest.xml:8:5-67
+MERGED from [com.google.mlkit:object-detection:16.2.8] /Users/nurseyit/.gradle/caches/transforms-3/64b9f2f4815cc5507b6bfefbab0da03d/transformed/jetified-object-detection-16.2.8/AndroidManifest.xml:8:5-67
+MERGED from [com.google.mlkit:vision-internal-vkp:18.2.1] /Users/nurseyit/.gradle/caches/transforms-3/bc1262a9a9efe4e6a1d102c12ded9cdb/transformed/jetified-vision-internal-vkp-18.2.1/AndroidManifest.xml:8:5-67
+MERGED from [com.google.mlkit:vision-internal-vkp:18.2.1] /Users/nurseyit/.gradle/caches/transforms-3/bc1262a9a9efe4e6a1d102c12ded9cdb/transformed/jetified-vision-internal-vkp-18.2.1/AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/nurseyit/.gradle/caches/transforms-3/c7301b60fd7454c0d5d834789c42dd2f/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:26:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/nurseyit/.gradle/caches/transforms-3/c7301b60fd7454c0d5d834789c42dd2f/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:26:5-67
+	android:name
+		ADDED from /Users/nurseyit/Desktop/material-showcase/app/src/main/AndroidManifest.xml:9:20-62
+uses-permission#android.permission.CAMERA
+ADDED from /Users/nurseyit/Desktop/material-showcase/app/src/main/AndroidManifest.xml:10:3-62
+	android:name
+		ADDED from /Users/nurseyit/Desktop/material-showcase/app/src/main/AndroidManifest.xml:10:20-60
+application
+ADDED from /Users/nurseyit/Desktop/material-showcase/app/src/main/AndroidManifest.xml:12:3-65:17
+MERGED from [com.google.android.material:material:1.4.0] /Users/nurseyit/.gradle/caches/transforms-3/4bd333fa3176a6eda81379a5dca8db5a/transformed/material-1.4.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.4.0] /Users/nurseyit/.gradle/caches/transforms-3/4bd333fa3176a6eda81379a5dca8db5a/transformed/material-1.4.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.mlkit:object-detection:16.2.8] /Users/nurseyit/.gradle/caches/transforms-3/64b9f2f4815cc5507b6bfefbab0da03d/transformed/jetified-object-detection-16.2.8/AndroidManifest.xml:10:5-18:19
+MERGED from [com.google.mlkit:object-detection:16.2.8] /Users/nurseyit/.gradle/caches/transforms-3/64b9f2f4815cc5507b6bfefbab0da03d/transformed/jetified-object-detection-16.2.8/AndroidManifest.xml:10:5-18:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] /Users/nurseyit/.gradle/caches/transforms-3/4aaa627a8cf7b0975687baf4b71690be/transformed/lifecycle-extensions-2.1.0/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] /Users/nurseyit/.gradle/caches/transforms-3/4aaa627a8cf7b0975687baf4b71690be/transformed/lifecycle-extensions-2.1.0/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.compose.ui:ui-tooling:1.0.5] /Users/nurseyit/.gradle/caches/transforms-3/363232c784365059085a7dd59073726a/transformed/jetified-ui-tooling-1.0.5/AndroidManifest.xml:24:5-28:19
+MERGED from [androidx.compose.ui:ui-tooling:1.0.5] /Users/nurseyit/.gradle/caches/transforms-3/363232c784365059085a7dd59073726a/transformed/jetified-ui-tooling-1.0.5/AndroidManifest.xml:24:5-28:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/nurseyit/.gradle/caches/transforms-3/40ec0852a51c0574de8d5ca8b1dc64f2/transformed/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/nurseyit/.gradle/caches/transforms-3/40ec0852a51c0574de8d5ca8b1dc64f2/transformed/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
+MERGED from [com.google.mlkit:object-detection-custom:16.3.4] /Users/nurseyit/.gradle/caches/transforms-3/ddc4f084a3e982b878c17cd9b61f8211/transformed/jetified-object-detection-custom-16.3.4/AndroidManifest.xml:7:5-15:19
+MERGED from [com.google.mlkit:object-detection-custom:16.3.4] /Users/nurseyit/.gradle/caches/transforms-3/ddc4f084a3e982b878c17cd9b61f8211/transformed/jetified-object-detection-custom-16.3.4/AndroidManifest.xml:7:5-15:19
+MERGED from [com.google.android.gms:play-services-mlkit-barcode-scanning:17.0.0] /Users/nurseyit/.gradle/caches/transforms-3/20fbb9f23450dbdfe86653b46e5774f6/transformed/jetified-play-services-mlkit-barcode-scanning-17.0.0/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.android.gms:play-services-mlkit-barcode-scanning:17.0.0] /Users/nurseyit/.gradle/caches/transforms-3/20fbb9f23450dbdfe86653b46e5774f6/transformed/jetified-play-services-mlkit-barcode-scanning-17.0.0/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.mlkit:vision-internal-vkp:18.2.1] /Users/nurseyit/.gradle/caches/transforms-3/bc1262a9a9efe4e6a1d102c12ded9cdb/transformed/jetified-vision-internal-vkp-18.2.1/AndroidManifest.xml:10:5-18:19
+MERGED from [com.google.mlkit:vision-internal-vkp:18.2.1] /Users/nurseyit/.gradle/caches/transforms-3/bc1262a9a9efe4e6a1d102c12ded9cdb/transformed/jetified-vision-internal-vkp-18.2.1/AndroidManifest.xml:10:5-18:19
+MERGED from [com.google.mlkit:vision-common:16.7.0] /Users/nurseyit/.gradle/caches/transforms-3/b6aca4c478f4adaa6d2c89f0c2e20a48/transformed/jetified-vision-common-16.7.0/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.mlkit:vision-common:16.7.0] /Users/nurseyit/.gradle/caches/transforms-3/b6aca4c478f4adaa6d2c89f0c2e20a48/transformed/jetified-vision-common-16.7.0/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.mlkit:common:17.5.0] /Users/nurseyit/.gradle/caches/transforms-3/89808dfdc2ebe29f28d8570b0b0171af/transformed/jetified-common-17.5.0/AndroidManifest.xml:8:5-24:19
+MERGED from [com.google.mlkit:common:17.5.0] /Users/nurseyit/.gradle/caches/transforms-3/89808dfdc2ebe29f28d8570b0b0171af/transformed/jetified-common-17.5.0/AndroidManifest.xml:8:5-24:19
+MERGED from [com.google.android.gms:play-services-base:17.6.0] /Users/nurseyit/.gradle/caches/transforms-3/c15488f86b61287e1792d3a4472e97ad/transformed/jetified-play-services-base-17.6.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.6.0] /Users/nurseyit/.gradle/caches/transforms-3/c15488f86b61287e1792d3a4472e97ad/transformed/jetified-play-services-base-17.6.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:17.2.1] /Users/nurseyit/.gradle/caches/transforms-3/4dac3bdf3c38b0b3725943734ac7f354/transformed/jetified-play-services-tasks-17.2.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.2.1] /Users/nurseyit/.gradle/caches/transforms-3/4dac3bdf3c38b0b3725943734ac7f354/transformed/jetified-play-services-tasks-17.2.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.6.0] /Users/nurseyit/.gradle/caches/transforms-3/6f25e8a8c7fa50f1d20097ec25e04209/transformed/jetified-play-services-basement-17.6.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.6.0] /Users/nurseyit/.gradle/caches/transforms-3/6f25e8a8c7fa50f1d20097ec25e04209/transformed/jetified-play-services-basement-17.6.0/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.7.0] /Users/nurseyit/.gradle/caches/transforms-3/15905d627d233875ccbff735f67f1a55/transformed/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.7.0] /Users/nurseyit/.gradle/caches/transforms-3/15905d627d233875ccbff735f67f1a55/transformed/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/nurseyit/.gradle/caches/transforms-3/c7301b60fd7454c0d5d834789c42dd2f/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/nurseyit/.gradle/caches/transforms-3/c7301b60fd7454c0d5d834789c42dd2f/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/nurseyit/.gradle/caches/transforms-3/8fef2d38bef13e0c97a562eac0fb7522/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/nurseyit/.gradle/caches/transforms-3/8fef2d38bef13e0c97a562eac0fb7522/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:25:5-39:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/nurseyit/.gradle/caches/transforms-3/afc3b2a17d3eb14b5775579ea9bdf5dd/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/nurseyit/.gradle/caches/transforms-3/afc3b2a17d3eb14b5775579ea9bdf5dd/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] /Users/nurseyit/.gradle/caches/transforms-3/d1f000db0858bfad0289519b73d627f7/transformed/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] /Users/nurseyit/.gradle/caches/transforms-3/d1f000db0858bfad0289519b73d627f7/transformed/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.1.0-beta03] /Users/nurseyit/.gradle/caches/transforms-3/c795caa482fab2ad0c62fd4029597206/transformed/jetified-profileinstaller-1.1.0-beta03/AndroidManifest.xml:25:5-46:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.1.0-beta03] /Users/nurseyit/.gradle/caches/transforms-3/c795caa482fab2ad0c62fd4029597206/transformed/jetified-profileinstaller-1.1.0-beta03/AndroidManifest.xml:25:5-46:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/nurseyit/.gradle/caches/transforms-3/5810a7aefee6861a6bfe60dbe3282d21/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/nurseyit/.gradle/caches/transforms-3/5810a7aefee6861a6bfe60dbe3282d21/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+MERGED from [com.google.android.odml:image:1.0.0-beta1] /Users/nurseyit/.gradle/caches/transforms-3/5ddf32dc88c0a9753e0ec2bbc312ad9a/transformed/jetified-image-1.0.0-beta1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.odml:image:1.0.0-beta1] /Users/nurseyit/.gradle/caches/transforms-3/5ddf32dc88c0a9753e0ec2bbc312ad9a/transformed/jetified-image-1.0.0-beta1/AndroidManifest.xml:7:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.7.0] /Users/nurseyit/.gradle/caches/transforms-3/15905d627d233875ccbff735f67f1a55/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/nurseyit/Desktop/material-showcase/app/src/main/AndroidManifest.xml:16:7-33
+	android:label
+		ADDED from /Users/nurseyit/Desktop/material-showcase/app/src/main/AndroidManifest.xml:15:7-39
+	tools:ignore
+		ADDED from /Users/nurseyit/Desktop/material-showcase/app/src/main/AndroidManifest.xml:18:7-46
+	android:icon
+		ADDED from /Users/nurseyit/Desktop/material-showcase/app/src/main/AndroidManifest.xml:14:7-42
+	android:allowBackup
+		ADDED from /Users/nurseyit/Desktop/material-showcase/app/src/main/AndroidManifest.xml:13:7-34
+	android:theme
+		ADDED from /Users/nurseyit/Desktop/material-showcase/app/src/main/AndroidManifest.xml:17:7-38
+meta-data#com.google.android.gms.version
+ADDED from /Users/nurseyit/Desktop/material-showcase/app/src/main/AndroidManifest.xml:20:5-22:64
+MERGED from [com.google.android.gms:play-services-basement:17.6.0] /Users/nurseyit/.gradle/caches/transforms-3/6f25e8a8c7fa50f1d20097ec25e04209/transformed/jetified-play-services-basement-17.6.0/AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:17.6.0] /Users/nurseyit/.gradle/caches/transforms-3/6f25e8a8c7fa50f1d20097ec25e04209/transformed/jetified-play-services-basement-17.6.0/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from /Users/nurseyit/Desktop/material-showcase/app/src/main/AndroidManifest.xml:22:9-62
+	android:name
+		ADDED from /Users/nurseyit/Desktop/material-showcase/app/src/main/AndroidManifest.xml:21:9-54
+activity#com.google.mlkit.md.LiveBarcodeScanningActivity
+ADDED from /Users/nurseyit/Desktop/material-showcase/app/src/main/AndroidManifest.xml:24:5-32:16
+	android:screenOrientation
+		ADDED from /Users/nurseyit/Desktop/material-showcase/app/src/main/AndroidManifest.xml:27:9-45
+	android:exported
+		ADDED from /Users/nurseyit/Desktop/material-showcase/app/src/main/AndroidManifest.xml:26:9-32
+	android:name
+		ADDED from /Users/nurseyit/Desktop/material-showcase/app/src/main/AndroidManifest.xml:25:9-71
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/nurseyit/Desktop/material-showcase/app/src/main/AndroidManifest.xml:28:7-31:23
+action#android.intent.action.MAIN
+ADDED from /Users/nurseyit/Desktop/material-showcase/app/src/main/AndroidManifest.xml:29:9-60
+	android:name
+		ADDED from /Users/nurseyit/Desktop/material-showcase/app/src/main/AndroidManifest.xml:29:17-58
+category#android.intent.category.LAUNCHER
+ADDED from /Users/nurseyit/Desktop/material-showcase/app/src/main/AndroidManifest.xml:30:9-68
+	android:name
+		ADDED from /Users/nurseyit/Desktop/material-showcase/app/src/main/AndroidManifest.xml:30:19-66
+activity#com.google.mlkit.md.LiveObjectDetectionActivity
+ADDED from /Users/nurseyit/Desktop/material-showcase/app/src/main/AndroidManifest.xml:34:5-38:16
+	android:screenOrientation
+		ADDED from /Users/nurseyit/Desktop/material-showcase/app/src/main/AndroidManifest.xml:37:9-45
+	android:exported
+		ADDED from /Users/nurseyit/Desktop/material-showcase/app/src/main/AndroidManifest.xml:36:9-33
+	android:name
+		ADDED from /Users/nurseyit/Desktop/material-showcase/app/src/main/AndroidManifest.xml:35:9-71
+activity#com.google.mlkit.md.StaticObjectDetectionActivity
+ADDED from /Users/nurseyit/Desktop/material-showcase/app/src/main/AndroidManifest.xml:46:5-50:16
+	android:screenOrientation
+		ADDED from /Users/nurseyit/Desktop/material-showcase/app/src/main/AndroidManifest.xml:49:9-45
+	android:exported
+		ADDED from /Users/nurseyit/Desktop/material-showcase/app/src/main/AndroidManifest.xml:48:9-33
+	android:name
+		ADDED from /Users/nurseyit/Desktop/material-showcase/app/src/main/AndroidManifest.xml:47:9-73
+activity#com.google.mlkit.md.CustomModelObjectDetectionActivity
+ADDED from /Users/nurseyit/Desktop/material-showcase/app/src/main/AndroidManifest.xml:52:5-56:16
+	android:screenOrientation
+		ADDED from /Users/nurseyit/Desktop/material-showcase/app/src/main/AndroidManifest.xml:55:9-45
+	android:exported
+		ADDED from /Users/nurseyit/Desktop/material-showcase/app/src/main/AndroidManifest.xml:54:9-33
+	android:name
+		ADDED from /Users/nurseyit/Desktop/material-showcase/app/src/main/AndroidManifest.xml:53:9-78
+activity#com.google.mlkit.md.settings.SettingsActivity
+ADDED from /Users/nurseyit/Desktop/material-showcase/app/src/main/AndroidManifest.xml:58:5-63:16
+	android:screenOrientation
+		ADDED from /Users/nurseyit/Desktop/material-showcase/app/src/main/AndroidManifest.xml:62:9-45
+	android:label
+		ADDED from /Users/nurseyit/Desktop/material-showcase/app/src/main/AndroidManifest.xml:61:9-47
+	android:exported
+		ADDED from /Users/nurseyit/Desktop/material-showcase/app/src/main/AndroidManifest.xml:60:9-33
+	android:name
+		ADDED from /Users/nurseyit/Desktop/material-showcase/app/src/main/AndroidManifest.xml:59:9-69
+uses-sdk
+INJECTED from /Users/nurseyit/Desktop/material-showcase/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/nurseyit/Desktop/material-showcase/app/src/main/AndroidManifest.xml
+INJECTED from /Users/nurseyit/Desktop/material-showcase/app/src/main/AndroidManifest.xml
+MERGED from [io.coil-kt:coil-compose:1.4.0] /Users/nurseyit/.gradle/caches/transforms-3/c6844bf16e8c403e8e94eee4876167e5/transformed/jetified-coil-compose-1.4.0/AndroidManifest.xml:5:5-7:41
+MERGED from [io.coil-kt:coil-compose:1.4.0] /Users/nurseyit/.gradle/caches/transforms-3/c6844bf16e8c403e8e94eee4876167e5/transformed/jetified-coil-compose-1.4.0/AndroidManifest.xml:5:5-7:41
+MERGED from [io.coil-kt:coil:1.4.0] /Users/nurseyit/.gradle/caches/transforms-3/4f704c76c1e6f85a7c533051bbf27252/transformed/jetified-coil-1.4.0/AndroidManifest.xml:5:5-7:41
+MERGED from [io.coil-kt:coil:1.4.0] /Users/nurseyit/.gradle/caches/transforms-3/4f704c76c1e6f85a7c533051bbf27252/transformed/jetified-coil-1.4.0/AndroidManifest.xml:5:5-7:41
+MERGED from [io.coil-kt:coil-compose-base:1.4.0] /Users/nurseyit/.gradle/caches/transforms-3/82f312856e19d570ec55f73915998bbd/transformed/jetified-coil-compose-base-1.4.0/AndroidManifest.xml:5:5-7:41
+MERGED from [io.coil-kt:coil-compose-base:1.4.0] /Users/nurseyit/.gradle/caches/transforms-3/82f312856e19d570ec55f73915998bbd/transformed/jetified-coil-compose-base-1.4.0/AndroidManifest.xml:5:5-7:41
+MERGED from [io.coil-kt:coil-base:1.4.0] /Users/nurseyit/.gradle/caches/transforms-3/f0be2734da7133444ebb571ecf92134c/transformed/jetified-coil-base-1.4.0/AndroidManifest.xml:5:5-7:41
+MERGED from [io.coil-kt:coil-base:1.4.0] /Users/nurseyit/.gradle/caches/transforms-3/f0be2734da7133444ebb571ecf92134c/transformed/jetified-coil-base-1.4.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.volley:volley:1.2.1] /Users/nurseyit/.gradle/caches/transforms-3/aa651f8fde60e3c6295bc060ede7e0ed/transformed/jetified-volley-1.2.1/AndroidManifest.xml:5:5-43
+MERGED from [com.android.volley:volley:1.2.1] /Users/nurseyit/.gradle/caches/transforms-3/aa651f8fde60e3c6295bc060ede7e0ed/transformed/jetified-volley-1.2.1/AndroidManifest.xml:5:5-43
+MERGED from [com.google.android.material:compose-theme-adapter:1.0.5] /Users/nurseyit/.gradle/caches/transforms-3/b6f8b76bba1307acfaf290a54e3bfedc/transformed/jetified-compose-theme-adapter-1.0.5/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:compose-theme-adapter:1.0.5] /Users/nurseyit/.gradle/caches/transforms-3/b6f8b76bba1307acfaf290a54e3bfedc/transformed/jetified-compose-theme-adapter-1.0.5/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.4.0] /Users/nurseyit/.gradle/caches/transforms-3/4bd333fa3176a6eda81379a5dca8db5a/transformed/material-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.4.0] /Users/nurseyit/.gradle/caches/transforms-3/4bd333fa3176a6eda81379a5dca8db5a/transformed/material-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.mlkit:object-detection:16.2.8] /Users/nurseyit/.gradle/caches/transforms-3/64b9f2f4815cc5507b6bfefbab0da03d/transformed/jetified-object-detection-16.2.8/AndroidManifest.xml:5:5-44
+MERGED from [com.google.mlkit:object-detection:16.2.8] /Users/nurseyit/.gradle/caches/transforms-3/64b9f2f4815cc5507b6bfefbab0da03d/transformed/jetified-object-detection-16.2.8/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] /Users/nurseyit/.gradle/caches/transforms-3/4aaa627a8cf7b0975687baf4b71690be/transformed/lifecycle-extensions-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] /Users/nurseyit/.gradle/caches/transforms-3/4aaa627a8cf7b0975687baf4b71690be/transformed/lifecycle-extensions-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.preference:preference-ktx:1.1.1] /Users/nurseyit/.gradle/caches/transforms-3/018f6f1803f4a18069e1d672a287a21b/transformed/jetified-preference-ktx-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.preference:preference-ktx:1.1.1] /Users/nurseyit/.gradle/caches/transforms-3/018f6f1803f4a18069e1d672a287a21b/transformed/jetified-preference-ktx-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.accompanist:accompanist-appcompat-theme:0.16.0] /Users/nurseyit/.gradle/caches/transforms-3/14742aee49db921c7e3108b4fa063365/transformed/jetified-accompanist-appcompat-theme-0.16.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.accompanist:accompanist-appcompat-theme:0.16.0] /Users/nurseyit/.gradle/caches/transforms-3/14742aee49db921c7e3108b4fa063365/transformed/jetified-accompanist-appcompat-theme-0.16.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.2.4] /Users/nurseyit/.gradle/caches/transforms-3/3a45c6fc38b6060a320184f4b4a72e68/transformed/jetified-fragment-ktx-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.2.4] /Users/nurseyit/.gradle/caches/transforms-3/3a45c6fc38b6060a320184f4b4a72e68/transformed/jetified-fragment-ktx-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-tooling:1.0.5] /Users/nurseyit/.gradle/caches/transforms-3/363232c784365059085a7dd59073726a/transformed/jetified-ui-tooling-1.0.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-tooling:1.0.5] /Users/nurseyit/.gradle/caches/transforms-3/363232c784365059085a7dd59073726a/transformed/jetified-ui-tooling-1.0.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-compose:1.4.0] /Users/nurseyit/.gradle/caches/transforms-3/a87d75d12f9e579cb96f6181a191a085/transformed/jetified-activity-compose-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-compose:1.4.0] /Users/nurseyit/.gradle/caches/transforms-3/a87d75d12f9e579cb96f6181a191a085/transformed/jetified-activity-compose-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.4.0] /Users/nurseyit/.gradle/caches/transforms-3/40904d48bd614a361082eb146b21f583/transformed/jetified-activity-ktx-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.4.0] /Users/nurseyit/.gradle/caches/transforms-3/40904d48bd614a361082eb146b21f583/transformed/jetified-activity-ktx-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.7.0] /Users/nurseyit/.gradle/caches/transforms-3/295d23387cf3238f1f85c40b117d0a80/transformed/jetified-core-ktx-1.7.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.7.0] /Users/nurseyit/.gradle/caches/transforms-3/295d23387cf3238f1f85c40b117d0a80/transformed/jetified-core-ktx-1.7.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/nurseyit/.gradle/caches/transforms-3/8825f59cd750d2777154bf3a27607ea1/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/nurseyit/.gradle/caches/transforms-3/8825f59cd750d2777154bf3a27607ea1/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/nurseyit/.gradle/caches/transforms-3/01156a3cfd22340f7b08252b73c02fd9/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/nurseyit/.gradle/caches/transforms-3/01156a3cfd22340f7b08252b73c02fd9/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/nurseyit/.gradle/caches/transforms-3/bf1ce79bd224b1af983270478ac76d8c/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/nurseyit/.gradle/caches/transforms-3/bf1ce79bd224b1af983270478ac76d8c/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/nurseyit/.gradle/caches/transforms-3/40ec0852a51c0574de8d5ca8b1dc64f2/transformed/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/nurseyit/.gradle/caches/transforms-3/40ec0852a51c0574de8d5ca8b1dc64f2/transformed/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.preference:preference:1.1.1] /Users/nurseyit/.gradle/caches/transforms-3/eccf6f3ec930f86eca996572810008e8/transformed/preference-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.preference:preference:1.1.1] /Users/nurseyit/.gradle/caches/transforms-3/eccf6f3ec930f86eca996572810008e8/transformed/preference-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.0] /Users/nurseyit/.gradle/caches/transforms-3/bf5159bc881af461634ffee26beba306/transformed/appcompat-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.0] /Users/nurseyit/.gradle/caches/transforms-3/bf5159bc881af461634ffee26beba306/transformed/appcompat-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] /Users/nurseyit/.gradle/caches/transforms-3/3aa41fe76e161d67270bf9e958ee9465/transformed/jetified-appcompat-resources-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] /Users/nurseyit/.gradle/caches/transforms-3/3aa41fe76e161d67270bf9e958ee9465/transformed/jetified-appcompat-resources-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/nurseyit/.gradle/caches/transforms-3/543e30110c1e8715255df509b75a8ff3/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/nurseyit/.gradle/caches/transforms-3/543e30110c1e8715255df509b75a8ff3/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/nurseyit/.gradle/caches/transforms-3/dbd20f5c3a57634654aac2965ca75923/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/nurseyit/.gradle/caches/transforms-3/dbd20f5c3a57634654aac2965ca75923/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/nurseyit/.gradle/caches/transforms-3/339e9bb1702439ce4c12dd3e583458b6/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/nurseyit/.gradle/caches/transforms-3/339e9bb1702439ce4c12dd3e583458b6/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/nurseyit/.gradle/caches/transforms-3/10675a61037ca358ea56db4337ee0c6d/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/nurseyit/.gradle/caches/transforms-3/10675a61037ca358ea56db4337ee0c6d/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.mlkit:barcode-scanning:17.0.1] /Users/nurseyit/.gradle/caches/transforms-3/f0ab0b4056cdab7f35a0e19456169965/transformed/jetified-barcode-scanning-17.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.mlkit:barcode-scanning:17.0.1] /Users/nurseyit/.gradle/caches/transforms-3/f0ab0b4056cdab7f35a0e19456169965/transformed/jetified-barcode-scanning-17.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.mlkit:object-detection-custom:16.3.4] /Users/nurseyit/.gradle/caches/transforms-3/ddc4f084a3e982b878c17cd9b61f8211/transformed/jetified-object-detection-custom-16.3.4/AndroidManifest.xml:5:5-44
+MERGED from [com.google.mlkit:object-detection-custom:16.3.4] /Users/nurseyit/.gradle/caches/transforms-3/ddc4f084a3e982b878c17cd9b61f8211/transformed/jetified-object-detection-custom-16.3.4/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-mlkit-barcode-scanning:17.0.0] /Users/nurseyit/.gradle/caches/transforms-3/20fbb9f23450dbdfe86653b46e5774f6/transformed/jetified-play-services-mlkit-barcode-scanning-17.0.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-mlkit-barcode-scanning:17.0.0] /Users/nurseyit/.gradle/caches/transforms-3/20fbb9f23450dbdfe86653b46e5774f6/transformed/jetified-play-services-mlkit-barcode-scanning-17.0.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.mlkit:barcode-scanning-common:16.0.0] /Users/nurseyit/.gradle/caches/transforms-3/f4535c9eb59e61fce4f466d2605b19fa/transformed/jetified-barcode-scanning-common-16.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.mlkit:barcode-scanning-common:16.0.0] /Users/nurseyit/.gradle/caches/transforms-3/f4535c9eb59e61fce4f466d2605b19fa/transformed/jetified-barcode-scanning-common-16.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.mlkit:object-detection-common:17.2.0] /Users/nurseyit/.gradle/caches/transforms-3/c465a557b8459b8f80f3ce75b6f50367/transformed/jetified-object-detection-common-17.2.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.mlkit:object-detection-common:17.2.0] /Users/nurseyit/.gradle/caches/transforms-3/c465a557b8459b8f80f3ce75b6f50367/transformed/jetified-object-detection-common-17.2.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.mlkit:vision-internal-vkp:18.2.1] /Users/nurseyit/.gradle/caches/transforms-3/bc1262a9a9efe4e6a1d102c12ded9cdb/transformed/jetified-vision-internal-vkp-18.2.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.mlkit:vision-internal-vkp:18.2.1] /Users/nurseyit/.gradle/caches/transforms-3/bc1262a9a9efe4e6a1d102c12ded9cdb/transformed/jetified-vision-internal-vkp-18.2.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.mlkit:vision-common:16.7.0] /Users/nurseyit/.gradle/caches/transforms-3/b6aca4c478f4adaa6d2c89f0c2e20a48/transformed/jetified-vision-common-16.7.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.mlkit:vision-common:16.7.0] /Users/nurseyit/.gradle/caches/transforms-3/b6aca4c478f4adaa6d2c89f0c2e20a48/transformed/jetified-vision-common-16.7.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.mlkit:common:17.5.0] /Users/nurseyit/.gradle/caches/transforms-3/89808dfdc2ebe29f28d8570b0b0171af/transformed/jetified-common-17.5.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.mlkit:common:17.5.0] /Users/nurseyit/.gradle/caches/transforms-3/89808dfdc2ebe29f28d8570b0b0171af/transformed/jetified-common-17.5.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-base:17.6.0] /Users/nurseyit/.gradle/caches/transforms-3/c15488f86b61287e1792d3a4472e97ad/transformed/jetified-play-services-base-17.6.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.6.0] /Users/nurseyit/.gradle/caches/transforms-3/c15488f86b61287e1792d3a4472e97ad/transformed/jetified-play-services-base-17.6.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.2.1] /Users/nurseyit/.gradle/caches/transforms-3/4dac3bdf3c38b0b3725943734ac7f354/transformed/jetified-play-services-tasks-17.2.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.2.1] /Users/nurseyit/.gradle/caches/transforms-3/4dac3bdf3c38b0b3725943734ac7f354/transformed/jetified-play-services-tasks-17.2.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.6.0] /Users/nurseyit/.gradle/caches/transforms-3/6f25e8a8c7fa50f1d20097ec25e04209/transformed/jetified-play-services-basement-17.6.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.6.0] /Users/nurseyit/.gradle/caches/transforms-3/6f25e8a8c7fa50f1d20097ec25e04209/transformed/jetified-play-services-basement-17.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/nurseyit/.gradle/caches/transforms-3/094ac0d5e69bc6535118c6d867ebeb4a/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/nurseyit/.gradle/caches/transforms-3/094ac0d5e69bc6535118c6d867ebeb4a/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/nurseyit/.gradle/caches/transforms-3/a864116139c4b2a9dd5df1bf3287fd8f/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/nurseyit/.gradle/caches/transforms-3/a864116139c4b2a9dd5df1bf3287fd8f/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.3.4] /Users/nurseyit/.gradle/caches/transforms-3/68b53df328ac6bcfeb9e1fb81c9bd418/transformed/fragment-1.3.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.4] /Users/nurseyit/.gradle/caches/transforms-3/68b53df328ac6bcfeb9e1fb81c9bd418/transformed/fragment-1.3.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/nurseyit/.gradle/caches/transforms-3/b350bda6c90d7051cb1920134210f8db/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/nurseyit/.gradle/caches/transforms-3/b350bda6c90d7051cb1920134210f8db/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/nurseyit/.gradle/caches/transforms-3/1b7203f0f001916b05277597a7ec5938/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/nurseyit/.gradle/caches/transforms-3/1b7203f0f001916b05277597a7ec5938/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/nurseyit/.gradle/caches/transforms-3/dbd09dbf58e9b774c9c9edc93f418566/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/nurseyit/.gradle/caches/transforms-3/dbd09dbf58e9b774c9c9edc93f418566/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/nurseyit/.gradle/caches/transforms-3/446188d8e55aa7ae7b7cab85b9af3265/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/nurseyit/.gradle/caches/transforms-3/446188d8e55aa7ae7b7cab85b9af3265/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.4.0] /Users/nurseyit/.gradle/caches/transforms-3/661fa9aeff6fb4ae4e6ebd957d49869a/transformed/jetified-activity-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.4.0] /Users/nurseyit/.gradle/caches/transforms-3/661fa9aeff6fb4ae4e6ebd957d49869a/transformed/jetified-activity-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:1.0.0-alpha07] /Users/nurseyit/.gradle/caches/transforms-3/3dbba3f086ed879eff4b135a0ca3e205/transformed/jetified-lifecycle-viewmodel-compose-1.0.0-alpha07/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:1.0.0-alpha07] /Users/nurseyit/.gradle/caches/transforms-3/3dbba3f086ed879eff4b135a0ca3e205/transformed/jetified-lifecycle-viewmodel-compose-1.0.0-alpha07/AndroidManifest.xml:20:5-22:41
+MERGED from [io.github.dmitrymysenko:textaroundcontent:0.1.0] /Users/nurseyit/.gradle/caches/transforms-3/c1b8f7127a18493206d8b12cb2d79cbb/transformed/jetified-textaroundcontent-0.1.0/AndroidManifest.xml:5:5-44
+MERGED from [io.github.dmitrymysenko:textaroundcontent:0.1.0] /Users/nurseyit/.gradle/caches/transforms-3/c1b8f7127a18493206d8b12cb2d79cbb/transformed/jetified-textaroundcontent-0.1.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data:1.0.5] /Users/nurseyit/.gradle/caches/transforms-3/568c7126214ee824bc9d00ac6a4824c4/transformed/jetified-ui-tooling-data-1.0.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-tooling-data:1.0.5] /Users/nurseyit/.gradle/caches/transforms-3/568c7126214ee824bc9d00ac6a4824c4/transformed/jetified-ui-tooling-data-1.0.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material:material:1.1.0-beta03] /Users/nurseyit/.gradle/caches/transforms-3/1b8d3034ac32e54e36ac4a054d4561c7/transformed/jetified-material-1.1.0-beta03/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material:material:1.1.0-beta03] /Users/nurseyit/.gradle/caches/transforms-3/1b8d3034ac32e54e36ac4a054d4561c7/transformed/jetified-material-1.1.0-beta03/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.accompanist:accompanist-drawablepainter:0.19.0] /Users/nurseyit/.gradle/caches/transforms-3/896b4cb8bc3c5bdae7c9c628307ec29f/transformed/jetified-accompanist-drawablepainter-0.19.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.accompanist:accompanist-drawablepainter:0.19.0] /Users/nurseyit/.gradle/caches/transforms-3/896b4cb8bc3c5bdae7c9c628307ec29f/transformed/jetified-accompanist-drawablepainter-0.19.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material:material-ripple:1.1.0-beta03] /Users/nurseyit/.gradle/caches/transforms-3/edcfecf2f375664f44c3d38a3eb5d04d/transformed/jetified-material-ripple-1.1.0-beta03/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material:material-ripple:1.1.0-beta03] /Users/nurseyit/.gradle/caches/transforms-3/edcfecf2f375664f44c3d38a3eb5d04d/transformed/jetified-material-ripple-1.1.0-beta03/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.foundation:foundation:1.1.0-beta03] /Users/nurseyit/.gradle/caches/transforms-3/02a4662a72344335b78b4668d13c627a/transformed/jetified-foundation-1.1.0-beta03/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.foundation:foundation:1.1.0-beta03] /Users/nurseyit/.gradle/caches/transforms-3/02a4662a72344335b78b4668d13c627a/transformed/jetified-foundation-1.1.0-beta03/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.animation:animation:1.1.0-beta03] /Users/nurseyit/.gradle/caches/transforms-3/020641faee5b3c6f9ca44306ee8edf58/transformed/jetified-animation-1.1.0-beta03/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.animation:animation:1.1.0-beta03] /Users/nurseyit/.gradle/caches/transforms-3/020641faee5b3c6f9ca44306ee8edf58/transformed/jetified-animation-1.1.0-beta03/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.foundation:foundation-layout:1.1.0-beta03] /Users/nurseyit/.gradle/caches/transforms-3/6b130e3219df54357948025d872d217a/transformed/jetified-foundation-layout-1.1.0-beta03/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.foundation:foundation-layout:1.1.0-beta03] /Users/nurseyit/.gradle/caches/transforms-3/6b130e3219df54357948025d872d217a/transformed/jetified-foundation-layout-1.1.0-beta03/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material:material-icons-core:1.1.0-beta03] /Users/nurseyit/.gradle/caches/transforms-3/bd824378c9f29ac1f18d0f162a834961/transformed/jetified-material-icons-core-1.1.0-beta03/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material:material-icons-core:1.1.0-beta03] /Users/nurseyit/.gradle/caches/transforms-3/bd824378c9f29ac1f18d0f162a834961/transformed/jetified-material-icons-core-1.1.0-beta03/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.animation:animation-core:1.1.0-beta03] /Users/nurseyit/.gradle/caches/transforms-3/d9a10a649bf45ec06cc63ec8a666116e/transformed/jetified-animation-core-1.1.0-beta03/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.animation:animation-core:1.1.0-beta03] /Users/nurseyit/.gradle/caches/transforms-3/d9a10a649bf45ec06cc63ec8a666116e/transformed/jetified-animation-core-1.1.0-beta03/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui:1.1.0-beta03] /Users/nurseyit/.gradle/caches/transforms-3/f0cbd205d73111eb99f5ccb0b1ede873/transformed/jetified-ui-1.1.0-beta03/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui:1.1.0-beta03] /Users/nurseyit/.gradle/caches/transforms-3/f0cbd205d73111eb99f5ccb0b1ede873/transformed/jetified-ui-1.1.0-beta03/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-text:1.1.0-beta03] /Users/nurseyit/.gradle/caches/transforms-3/f83924a1cf6873d7ab8df053423073aa/transformed/jetified-ui-text-1.1.0-beta03/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-text:1.1.0-beta03] /Users/nurseyit/.gradle/caches/transforms-3/f83924a1cf6873d7ab8df053423073aa/transformed/jetified-ui-text-1.1.0-beta03/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/nurseyit/.gradle/caches/transforms-3/d62e686891cfd0e57b11a989a5e6f032/transformed/jetified-autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/nurseyit/.gradle/caches/transforms-3/d62e686891cfd0e57b11a989a5e6f032/transformed/jetified-autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] /Users/nurseyit/.gradle/caches/transforms-3/15905d627d233875ccbff735f67f1a55/transformed/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] /Users/nurseyit/.gradle/caches/transforms-3/15905d627d233875ccbff735f67f1a55/transformed/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.4.0] /Users/nurseyit/.gradle/caches/transforms-3/fa8f2e8b824311dad7106aa04e3d8ab7/transformed/jetified-lifecycle-viewmodel-ktx-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.4.0] /Users/nurseyit/.gradle/caches/transforms-3/fa8f2e8b824311dad7106aa04e3d8ab7/transformed/jetified-lifecycle-viewmodel-ktx-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/nurseyit/.gradle/caches/transforms-3/08967bd0dcccc8f972d1ab7d0debc6f6/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/nurseyit/.gradle/caches/transforms-3/08967bd0dcccc8f972d1ab7d0debc6f6/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.4.0] /Users/nurseyit/.gradle/caches/transforms-3/ae35c341b4017267429024d85f8b2e6c/transformed/lifecycle-viewmodel-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.4.0] /Users/nurseyit/.gradle/caches/transforms-3/ae35c341b4017267429024d85f8b2e6c/transformed/lifecycle-viewmodel-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/nurseyit/.gradle/caches/transforms-3/c7301b60fd7454c0d5d834789c42dd2f/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/nurseyit/.gradle/caches/transforms-3/c7301b60fd7454c0d5d834789c42dd2f/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/nurseyit/.gradle/caches/transforms-3/8fef2d38bef13e0c97a562eac0fb7522/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/nurseyit/.gradle/caches/transforms-3/8fef2d38bef13e0c97a562eac0fb7522/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:2.2.1] /Users/nurseyit/.gradle/caches/transforms-3/fe79602ebeabc911e7be23b35c3500e5/transformed/jetified-transport-api-2.2.1/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:2.2.1] /Users/nurseyit/.gradle/caches/transforms-3/fe79602ebeabc911e7be23b35c3500e5/transformed/jetified-transport-api-2.2.1/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-components:16.1.0] /Users/nurseyit/.gradle/caches/transforms-3/05aa50bd83a6c809584c98f1c0192bde/transformed/jetified-firebase-components-16.1.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:16.1.0] /Users/nurseyit/.gradle/caches/transforms-3/05aa50bd83a6c809584c98f1c0192bde/transformed/jetified-firebase-components-16.1.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:17.1.0] /Users/nurseyit/.gradle/caches/transforms-3/d42cea0a3d1f24187faa8225dcff1427/transformed/jetified-firebase-encoders-json-17.1.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:17.1.0] /Users/nurseyit/.gradle/caches/transforms-3/d42cea0a3d1f24187faa8225dcff1427/transformed/jetified-firebase-encoders-json-17.1.0/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.compose.ui:ui-tooling-preview:1.0.5] /Users/nurseyit/.gradle/caches/transforms-3/33001b2ba9a4d2af71732d9adc7c3925/transformed/jetified-ui-tooling-preview-1.0.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-tooling-preview:1.0.5] /Users/nurseyit/.gradle/caches/transforms-3/33001b2ba9a4d2af71732d9adc7c3925/transformed/jetified-ui-tooling-preview-1.0.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/nurseyit/.gradle/caches/transforms-3/afc3b2a17d3eb14b5775579ea9bdf5dd/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/nurseyit/.gradle/caches/transforms-3/afc3b2a17d3eb14b5775579ea9bdf5dd/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] /Users/nurseyit/.gradle/caches/transforms-3/d1f000db0858bfad0289519b73d627f7/transformed/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] /Users/nurseyit/.gradle/caches/transforms-3/d1f000db0858bfad0289519b73d627f7/transformed/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] /Users/nurseyit/.gradle/caches/transforms-3/bb5fdedb47397e5a395f270f026318a4/transformed/jetified-lifecycle-service-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] /Users/nurseyit/.gradle/caches/transforms-3/bb5fdedb47397e5a395f270f026318a4/transformed/jetified-lifecycle-service-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] /Users/nurseyit/.gradle/caches/transforms-3/f23609fd076969e3ed68f1a17eeeedfb/transformed/jetified-lifecycle-runtime-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] /Users/nurseyit/.gradle/caches/transforms-3/f23609fd076969e3ed68f1a17eeeedfb/transformed/jetified-lifecycle-runtime-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/nurseyit/.gradle/caches/transforms-3/7e0441040015bda0df1f9c113aa47337/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/nurseyit/.gradle/caches/transforms-3/7e0441040015bda0df1f9c113aa47337/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] /Users/nurseyit/.gradle/caches/transforms-3/b49c8f8c7a36abed0da2042ab6d5b347/transformed/lifecycle-livedata-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] /Users/nurseyit/.gradle/caches/transforms-3/b49c8f8c7a36abed0da2042ab6d5b347/transformed/lifecycle-livedata-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] /Users/nurseyit/.gradle/caches/transforms-3/48afaf6bd5766add6afddd5b66d51dca/transformed/jetified-lifecycle-livedata-core-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] /Users/nurseyit/.gradle/caches/transforms-3/48afaf6bd5766add6afddd5b66d51dca/transformed/jetified-lifecycle-livedata-core-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/nurseyit/.gradle/caches/transforms-3/73c0309665eb6d64ec5dad88f296c160/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/nurseyit/.gradle/caches/transforms-3/73c0309665eb6d64ec5dad88f296c160/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/nurseyit/.gradle/caches/transforms-3/a53d8d40ad30649e011b5e3f16f58801/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/nurseyit/.gradle/caches/transforms-3/a53d8d40ad30649e011b5e3f16f58801/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] /Users/nurseyit/.gradle/caches/transforms-3/74b290f00374eae7c3a3a4069ac43b67/transformed/jetified-savedstate-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] /Users/nurseyit/.gradle/caches/transforms-3/74b290f00374eae7c3a3a4069ac43b67/transformed/jetified-savedstate-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/nurseyit/.gradle/caches/transforms-3/77500e8814b7633aa71997ee5ad9420f/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/nurseyit/.gradle/caches/transforms-3/77500e8814b7633aa71997ee5ad9420f/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/nurseyit/.gradle/caches/transforms-3/35b45e2bae1381009989c0d7eecbff16/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/nurseyit/.gradle/caches/transforms-3/35b45e2bae1381009989c0d7eecbff16/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] /Users/nurseyit/.gradle/caches/transforms-3/83888bbd862b335696e132359aedd4d6/transformed/exifinterface-1.3.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] /Users/nurseyit/.gradle/caches/transforms-3/83888bbd862b335696e132359aedd4d6/transformed/exifinterface-1.3.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.runtime:runtime-saveable:1.1.0-beta03] /Users/nurseyit/.gradle/caches/transforms-3/29aec7c1482732410a89a65454db99c7/transformed/jetified-runtime-saveable-1.1.0-beta03/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.runtime:runtime-saveable:1.1.0-beta03] /Users/nurseyit/.gradle/caches/transforms-3/29aec7c1482732410a89a65454db99c7/transformed/jetified-runtime-saveable-1.1.0-beta03/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-graphics:1.1.0-beta03] /Users/nurseyit/.gradle/caches/transforms-3/a688b114d71eda6822f47287f1a20087/transformed/jetified-ui-graphics-1.1.0-beta03/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-graphics:1.1.0-beta03] /Users/nurseyit/.gradle/caches/transforms-3/a688b114d71eda6822f47287f1a20087/transformed/jetified-ui-graphics-1.1.0-beta03/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-unit:1.1.0-beta03] /Users/nurseyit/.gradle/caches/transforms-3/0138be3929ea42df154c7a2569ecec67/transformed/jetified-ui-unit-1.1.0-beta03/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-unit:1.1.0-beta03] /Users/nurseyit/.gradle/caches/transforms-3/0138be3929ea42df154c7a2569ecec67/transformed/jetified-ui-unit-1.1.0-beta03/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-geometry:1.1.0-beta03] /Users/nurseyit/.gradle/caches/transforms-3/e0650a3af2a8e02e845c9490e18d64c2/transformed/jetified-ui-geometry-1.1.0-beta03/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-geometry:1.1.0-beta03] /Users/nurseyit/.gradle/caches/transforms-3/e0650a3af2a8e02e845c9490e18d64c2/transformed/jetified-ui-geometry-1.1.0-beta03/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.runtime:runtime:1.1.0-beta03] /Users/nurseyit/.gradle/caches/transforms-3/efd5903ea6491ec7fe584b713ecd012b/transformed/jetified-runtime-1.1.0-beta03/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.runtime:runtime:1.1.0-beta03] /Users/nurseyit/.gradle/caches/transforms-3/efd5903ea6491ec7fe584b713ecd012b/transformed/jetified-runtime-1.1.0-beta03/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.profileinstaller:profileinstaller:1.1.0-beta03] /Users/nurseyit/.gradle/caches/transforms-3/c795caa482fab2ad0c62fd4029597206/transformed/jetified-profileinstaller-1.1.0-beta03/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.profileinstaller:profileinstaller:1.1.0-beta03] /Users/nurseyit/.gradle/caches/transforms-3/c795caa482fab2ad0c62fd4029597206/transformed/jetified-profileinstaller-1.1.0-beta03/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/nurseyit/.gradle/caches/transforms-3/3c5ec009ced95822557017a1976f0fd0/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/nurseyit/.gradle/caches/transforms-3/3c5ec009ced95822557017a1976f0fd0/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/nurseyit/.gradle/caches/transforms-3/e958945b49e73c2d618ab37667304198/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/nurseyit/.gradle/caches/transforms-3/e958945b49e73c2d618ab37667304198/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/nurseyit/.gradle/caches/transforms-3/948a3555f8b5f931477aa4aeb2606c29/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/nurseyit/.gradle/caches/transforms-3/948a3555f8b5f931477aa4aeb2606c29/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/nurseyit/.gradle/caches/transforms-3/5810a7aefee6861a6bfe60dbe3282d21/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/nurseyit/.gradle/caches/transforms-3/5810a7aefee6861a6bfe60dbe3282d21/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/nurseyit/.gradle/caches/transforms-3/a44f72db8c5b450a22d47de96a766cda/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/nurseyit/.gradle/caches/transforms-3/a44f72db8c5b450a22d47de96a766cda/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/nurseyit/.gradle/caches/transforms-3/b59d22f6725d58ca4c8c1ff61be34df8/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/nurseyit/.gradle/caches/transforms-3/b59d22f6725d58ca4c8c1ff61be34df8/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-util:1.1.0-beta03] /Users/nurseyit/.gradle/caches/transforms-3/ae20e85e3c53f363478c17ceeead5fec/transformed/jetified-ui-util-1.1.0-beta03/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-util:1.1.0-beta03] /Users/nurseyit/.gradle/caches/transforms-3/ae20e85e3c53f363478c17ceeead5fec/transformed/jetified-ui-util-1.1.0-beta03/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/nurseyit/.gradle/caches/transforms-3/9fbe4d67d461d5cfb33ee220c2f48da1/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/nurseyit/.gradle/caches/transforms-3/9fbe4d67d461d5cfb33ee220c2f48da1/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.odml:image:1.0.0-beta1] /Users/nurseyit/.gradle/caches/transforms-3/5ddf32dc88c0a9753e0ec2bbc312ad9a/transformed/jetified-image-1.0.0-beta1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.odml:image:1.0.0-beta1] /Users/nurseyit/.gradle/caches/transforms-3/5ddf32dc88c0a9753e0ec2bbc312ad9a/transformed/jetified-image-1.0.0-beta1/AndroidManifest.xml:5:5-44
+INJECTED from /Users/nurseyit/Desktop/material-showcase/app/src/main/AndroidManifest.xml
+INJECTED from /Users/nurseyit/Desktop/material-showcase/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/nurseyit/Desktop/material-showcase/app/src/main/AndroidManifest.xml
+		ADDED from /Users/nurseyit/Desktop/material-showcase/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/nurseyit/Desktop/material-showcase/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/nurseyit/Desktop/material-showcase/app/src/main/AndroidManifest.xml
+		ADDED from /Users/nurseyit/Desktop/material-showcase/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/nurseyit/Desktop/material-showcase/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.mlkit:object-detection:16.2.8] /Users/nurseyit/.gradle/caches/transforms-3/64b9f2f4815cc5507b6bfefbab0da03d/transformed/jetified-object-detection-16.2.8/AndroidManifest.xml:7:5-79
+MERGED from [com.google.mlkit:vision-internal-vkp:18.2.1] /Users/nurseyit/.gradle/caches/transforms-3/bc1262a9a9efe4e6a1d102c12ded9cdb/transformed/jetified-vision-internal-vkp-18.2.1/AndroidManifest.xml:7:5-79
+MERGED from [com.google.mlkit:vision-internal-vkp:18.2.1] /Users/nurseyit/.gradle/caches/transforms-3/bc1262a9a9efe4e6a1d102c12ded9cdb/transformed/jetified-vision-internal-vkp-18.2.1/AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/nurseyit/.gradle/caches/transforms-3/c7301b60fd7454c0d5d834789c42dd2f/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/nurseyit/.gradle/caches/transforms-3/c7301b60fd7454c0d5d834789c42dd2f/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/nurseyit/.gradle/caches/transforms-3/8fef2d38bef13e0c97a562eac0fb7522/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/nurseyit/.gradle/caches/transforms-3/8fef2d38bef13e0c97a562eac0fb7522/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [com.google.mlkit:object-detection:16.2.8] /Users/nurseyit/.gradle/caches/transforms-3/64b9f2f4815cc5507b6bfefbab0da03d/transformed/jetified-object-detection-16.2.8/AndroidManifest.xml:7:22-76
+service#com.google.mlkit.common.internal.MlKitComponentDiscoveryService
+ADDED from [com.google.mlkit:object-detection:16.2.8] /Users/nurseyit/.gradle/caches/transforms-3/64b9f2f4815cc5507b6bfefbab0da03d/transformed/jetified-object-detection-16.2.8/AndroidManifest.xml:11:9-17:19
+MERGED from [com.google.mlkit:object-detection-custom:16.3.4] /Users/nurseyit/.gradle/caches/transforms-3/ddc4f084a3e982b878c17cd9b61f8211/transformed/jetified-object-detection-custom-16.3.4/AndroidManifest.xml:8:9-14:19
+MERGED from [com.google.mlkit:object-detection-custom:16.3.4] /Users/nurseyit/.gradle/caches/transforms-3/ddc4f084a3e982b878c17cd9b61f8211/transformed/jetified-object-detection-custom-16.3.4/AndroidManifest.xml:8:9-14:19
+MERGED from [com.google.android.gms:play-services-mlkit-barcode-scanning:17.0.0] /Users/nurseyit/.gradle/caches/transforms-3/20fbb9f23450dbdfe86653b46e5774f6/transformed/jetified-play-services-mlkit-barcode-scanning-17.0.0/AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.android.gms:play-services-mlkit-barcode-scanning:17.0.0] /Users/nurseyit/.gradle/caches/transforms-3/20fbb9f23450dbdfe86653b46e5774f6/transformed/jetified-play-services-mlkit-barcode-scanning-17.0.0/AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.mlkit:vision-internal-vkp:18.2.1] /Users/nurseyit/.gradle/caches/transforms-3/bc1262a9a9efe4e6a1d102c12ded9cdb/transformed/jetified-vision-internal-vkp-18.2.1/AndroidManifest.xml:11:9-17:19
+MERGED from [com.google.mlkit:vision-internal-vkp:18.2.1] /Users/nurseyit/.gradle/caches/transforms-3/bc1262a9a9efe4e6a1d102c12ded9cdb/transformed/jetified-vision-internal-vkp-18.2.1/AndroidManifest.xml:11:9-17:19
+MERGED from [com.google.mlkit:vision-common:16.7.0] /Users/nurseyit/.gradle/caches/transforms-3/b6aca4c478f4adaa6d2c89f0c2e20a48/transformed/jetified-vision-common-16.7.0/AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.mlkit:vision-common:16.7.0] /Users/nurseyit/.gradle/caches/transforms-3/b6aca4c478f4adaa6d2c89f0c2e20a48/transformed/jetified-vision-common-16.7.0/AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.mlkit:common:17.5.0] /Users/nurseyit/.gradle/caches/transforms-3/89808dfdc2ebe29f28d8570b0b0171af/transformed/jetified-common-17.5.0/AndroidManifest.xml:15:9-23:19
+MERGED from [com.google.mlkit:common:17.5.0] /Users/nurseyit/.gradle/caches/transforms-3/89808dfdc2ebe29f28d8570b0b0171af/transformed/jetified-common-17.5.0/AndroidManifest.xml:15:9-23:19
+	android:exported
+		ADDED from [com.google.mlkit:object-detection:16.2.8] /Users/nurseyit/.gradle/caches/transforms-3/64b9f2f4815cc5507b6bfefbab0da03d/transformed/jetified-object-detection-16.2.8/AndroidManifest.xml:13:13-37
+	tools:targetApi
+		ADDED from [com.google.mlkit:common:17.5.0] /Users/nurseyit/.gradle/caches/transforms-3/89808dfdc2ebe29f28d8570b0b0171af/transformed/jetified-common-17.5.0/AndroidManifest.xml:19:13-32
+	android:directBootAware
+		ADDED from [com.google.mlkit:common:17.5.0] /Users/nurseyit/.gradle/caches/transforms-3/89808dfdc2ebe29f28d8570b0b0171af/transformed/jetified-common-17.5.0/AndroidManifest.xml:17:13-43
+	android:name
+		ADDED from [com.google.mlkit:object-detection:16.2.8] /Users/nurseyit/.gradle/caches/transforms-3/64b9f2f4815cc5507b6bfefbab0da03d/transformed/jetified-object-detection-16.2.8/AndroidManifest.xml:12:13-91
+meta-data#com.google.firebase.components:com.google.mlkit.vision.objects.defaults.internal.DefaultObjectsRegistrar
+ADDED from [com.google.mlkit:object-detection:16.2.8] /Users/nurseyit/.gradle/caches/transforms-3/64b9f2f4815cc5507b6bfefbab0da03d/transformed/jetified-object-detection-16.2.8/AndroidManifest.xml:14:13-16:85
+	android:value
+		ADDED from [com.google.mlkit:object-detection:16.2.8] /Users/nurseyit/.gradle/caches/transforms-3/64b9f2f4815cc5507b6bfefbab0da03d/transformed/jetified-object-detection-16.2.8/AndroidManifest.xml:16:17-82
+	android:name
+		ADDED from [com.google.mlkit:object-detection:16.2.8] /Users/nurseyit/.gradle/caches/transforms-3/64b9f2f4815cc5507b6bfefbab0da03d/transformed/jetified-object-detection-16.2.8/AndroidManifest.xml:15:17-136
+activity#androidx.compose.ui.tooling.PreviewActivity
+ADDED from [androidx.compose.ui:ui-tooling:1.0.5] /Users/nurseyit/.gradle/caches/transforms-3/363232c784365059085a7dd59073726a/transformed/jetified-ui-tooling-1.0.5/AndroidManifest.xml:25:9-27:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-tooling:1.0.5] /Users/nurseyit/.gradle/caches/transforms-3/363232c784365059085a7dd59073726a/transformed/jetified-ui-tooling-1.0.5/AndroidManifest.xml:27:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-tooling:1.0.5] /Users/nurseyit/.gradle/caches/transforms-3/363232c784365059085a7dd59073726a/transformed/jetified-ui-tooling-1.0.5/AndroidManifest.xml:26:13-71
+meta-data#com.google.firebase.components:com.google.mlkit.vision.objects.custom.internal.CustomObjectsRegistrar
+ADDED from [com.google.mlkit:object-detection-custom:16.3.4] /Users/nurseyit/.gradle/caches/transforms-3/ddc4f084a3e982b878c17cd9b61f8211/transformed/jetified-object-detection-custom-16.3.4/AndroidManifest.xml:11:13-13:85
+	android:value
+		ADDED from [com.google.mlkit:object-detection-custom:16.3.4] /Users/nurseyit/.gradle/caches/transforms-3/ddc4f084a3e982b878c17cd9b61f8211/transformed/jetified-object-detection-custom-16.3.4/AndroidManifest.xml:13:17-82
+	android:name
+		ADDED from [com.google.mlkit:object-detection-custom:16.3.4] /Users/nurseyit/.gradle/caches/transforms-3/ddc4f084a3e982b878c17cd9b61f8211/transformed/jetified-object-detection-custom-16.3.4/AndroidManifest.xml:12:17-133
+meta-data#com.google.firebase.components:com.google.mlkit.vision.barcode.internal.BarcodeRegistrar
+ADDED from [com.google.android.gms:play-services-mlkit-barcode-scanning:17.0.0] /Users/nurseyit/.gradle/caches/transforms-3/20fbb9f23450dbdfe86653b46e5774f6/transformed/jetified-play-services-mlkit-barcode-scanning-17.0.0/AndroidManifest.xml:12:13-14:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-mlkit-barcode-scanning:17.0.0] /Users/nurseyit/.gradle/caches/transforms-3/20fbb9f23450dbdfe86653b46e5774f6/transformed/jetified-play-services-mlkit-barcode-scanning-17.0.0/AndroidManifest.xml:14:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-mlkit-barcode-scanning:17.0.0] /Users/nurseyit/.gradle/caches/transforms-3/20fbb9f23450dbdfe86653b46e5774f6/transformed/jetified-play-services-mlkit-barcode-scanning-17.0.0/AndroidManifest.xml:13:17-120
+meta-data#com.google.firebase.components:com.google.mlkit.vision.vkp.VkpRegistrar
+ADDED from [com.google.mlkit:vision-internal-vkp:18.2.1] /Users/nurseyit/.gradle/caches/transforms-3/bc1262a9a9efe4e6a1d102c12ded9cdb/transformed/jetified-vision-internal-vkp-18.2.1/AndroidManifest.xml:14:13-16:85
+	android:value
+		ADDED from [com.google.mlkit:vision-internal-vkp:18.2.1] /Users/nurseyit/.gradle/caches/transforms-3/bc1262a9a9efe4e6a1d102c12ded9cdb/transformed/jetified-vision-internal-vkp-18.2.1/AndroidManifest.xml:16:17-82
+	android:name
+		ADDED from [com.google.mlkit:vision-internal-vkp:18.2.1] /Users/nurseyit/.gradle/caches/transforms-3/bc1262a9a9efe4e6a1d102c12ded9cdb/transformed/jetified-vision-internal-vkp-18.2.1/AndroidManifest.xml:15:17-103
+meta-data#com.google.firebase.components:com.google.mlkit.vision.common.internal.VisionCommonRegistrar
+ADDED from [com.google.mlkit:vision-common:16.7.0] /Users/nurseyit/.gradle/caches/transforms-3/b6aca4c478f4adaa6d2c89f0c2e20a48/transformed/jetified-vision-common-16.7.0/AndroidManifest.xml:12:13-14:85
+	android:value
+		ADDED from [com.google.mlkit:vision-common:16.7.0] /Users/nurseyit/.gradle/caches/transforms-3/b6aca4c478f4adaa6d2c89f0c2e20a48/transformed/jetified-vision-common-16.7.0/AndroidManifest.xml:14:17-82
+	android:name
+		ADDED from [com.google.mlkit:vision-common:16.7.0] /Users/nurseyit/.gradle/caches/transforms-3/b6aca4c478f4adaa6d2c89f0c2e20a48/transformed/jetified-vision-common-16.7.0/AndroidManifest.xml:13:17-124
+provider#com.google.mlkit.common.internal.MlKitInitProvider
+ADDED from [com.google.mlkit:common:17.5.0] /Users/nurseyit/.gradle/caches/transforms-3/89808dfdc2ebe29f28d8570b0b0171af/transformed/jetified-common-17.5.0/AndroidManifest.xml:9:9-13:38
+	android:authorities
+		ADDED from [com.google.mlkit:common:17.5.0] /Users/nurseyit/.gradle/caches/transforms-3/89808dfdc2ebe29f28d8570b0b0171af/transformed/jetified-common-17.5.0/AndroidManifest.xml:11:13-69
+	android:exported
+		ADDED from [com.google.mlkit:common:17.5.0] /Users/nurseyit/.gradle/caches/transforms-3/89808dfdc2ebe29f28d8570b0b0171af/transformed/jetified-common-17.5.0/AndroidManifest.xml:12:13-37
+	android:initOrder
+		ADDED from [com.google.mlkit:common:17.5.0] /Users/nurseyit/.gradle/caches/transforms-3/89808dfdc2ebe29f28d8570b0b0171af/transformed/jetified-common-17.5.0/AndroidManifest.xml:13:13-35
+	android:name
+		ADDED from [com.google.mlkit:common:17.5.0] /Users/nurseyit/.gradle/caches/transforms-3/89808dfdc2ebe29f28d8570b0b0171af/transformed/jetified-common-17.5.0/AndroidManifest.xml:10:13-78
+meta-data#com.google.firebase.components:com.google.mlkit.common.internal.CommonComponentRegistrar
+ADDED from [com.google.mlkit:common:17.5.0] /Users/nurseyit/.gradle/caches/transforms-3/89808dfdc2ebe29f28d8570b0b0171af/transformed/jetified-common-17.5.0/AndroidManifest.xml:20:13-22:85
+	android:value
+		ADDED from [com.google.mlkit:common:17.5.0] /Users/nurseyit/.gradle/caches/transforms-3/89808dfdc2ebe29f28d8570b0b0171af/transformed/jetified-common-17.5.0/AndroidManifest.xml:22:17-82
+	android:name
+		ADDED from [com.google.mlkit:common:17.5.0] /Users/nurseyit/.gradle/caches/transforms-3/89808dfdc2ebe29f28d8570b0b0171af/transformed/jetified-common-17.5.0/AndroidManifest.xml:21:17-120
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.6.0] /Users/nurseyit/.gradle/caches/transforms-3/c15488f86b61287e1792d3a4472e97ad/transformed/jetified-play-services-base-17.6.0/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.6.0] /Users/nurseyit/.gradle/caches/transforms-3/c15488f86b61287e1792d3a4472e97ad/transformed/jetified-play-services-base-17.6.0/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.6.0] /Users/nurseyit/.gradle/caches/transforms-3/c15488f86b61287e1792d3a4472e97ad/transformed/jetified-play-services-base-17.6.0/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.6.0] /Users/nurseyit/.gradle/caches/transforms-3/c15488f86b61287e1792d3a4472e97ad/transformed/jetified-play-services-base-17.6.0/AndroidManifest.xml:24:13-79
+service#com.google.android.datatransport.runtime.backends.TransportBackendDiscovery
+ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/nurseyit/.gradle/caches/transforms-3/c7301b60fd7454c0d5d834789c42dd2f/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/nurseyit/.gradle/caches/transforms-3/8fef2d38bef13e0c97a562eac0fb7522/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:36:9-38:40
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/nurseyit/.gradle/caches/transforms-3/8fef2d38bef13e0c97a562eac0fb7522/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:36:9-38:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/nurseyit/.gradle/caches/transforms-3/c7301b60fd7454c0d5d834789c42dd2f/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/nurseyit/.gradle/caches/transforms-3/c7301b60fd7454c0d5d834789c42dd2f/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:30:13-103
+meta-data#backend:com.google.android.datatransport.cct.CctBackendFactory
+ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/nurseyit/.gradle/caches/transforms-3/c7301b60fd7454c0d5d834789c42dd2f/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:32:13-34:39
+	android:value
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/nurseyit/.gradle/caches/transforms-3/c7301b60fd7454c0d5d834789c42dd2f/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:34:17-36
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/nurseyit/.gradle/caches/transforms-3/c7301b60fd7454c0d5d834789c42dd2f/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:33:17-94
+service#com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService
+ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/nurseyit/.gradle/caches/transforms-3/8fef2d38bef13e0c97a562eac0fb7522/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:26:9-30:19
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/nurseyit/.gradle/caches/transforms-3/8fef2d38bef13e0c97a562eac0fb7522/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:28:13-37
+	android:permission
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/nurseyit/.gradle/caches/transforms-3/8fef2d38bef13e0c97a562eac0fb7522/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/nurseyit/.gradle/caches/transforms-3/8fef2d38bef13e0c97a562eac0fb7522/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:27:13-117
+receiver#com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver
+ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/nurseyit/.gradle/caches/transforms-3/8fef2d38bef13e0c97a562eac0fb7522/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:32:9-34:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/nurseyit/.gradle/caches/transforms-3/8fef2d38bef13e0c97a562eac0fb7522/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/nurseyit/.gradle/caches/transforms-3/8fef2d38bef13e0c97a562eac0fb7522/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:33:13-132
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] /Users/nurseyit/.gradle/caches/transforms-3/d1f000db0858bfad0289519b73d627f7/transformed/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] /Users/nurseyit/.gradle/caches/transforms-3/d1f000db0858bfad0289519b73d627f7/transformed/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:25:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] /Users/nurseyit/.gradle/caches/transforms-3/d1f000db0858bfad0289519b73d627f7/transformed/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] /Users/nurseyit/.gradle/caches/transforms-3/d1f000db0858bfad0289519b73d627f7/transformed/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] /Users/nurseyit/.gradle/caches/transforms-3/d1f000db0858bfad0289519b73d627f7/transformed/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:24:13-79
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.profileinstaller:profileinstaller:1.1.0-beta03] /Users/nurseyit/.gradle/caches/transforms-3/c795caa482fab2ad0c62fd4029597206/transformed/jetified-profileinstaller-1.1.0-beta03/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/nurseyit/.gradle/caches/transforms-3/5810a7aefee6861a6bfe60dbe3282d21/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/nurseyit/.gradle/caches/transforms-3/5810a7aefee6861a6bfe60dbe3282d21/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.profileinstaller:profileinstaller:1.1.0-beta03] /Users/nurseyit/.gradle/caches/transforms-3/c795caa482fab2ad0c62fd4029597206/transformed/jetified-profileinstaller-1.1.0-beta03/AndroidManifest.xml:30:13-31
+	android:authorities
+		ADDED from [androidx.profileinstaller:profileinstaller:1.1.0-beta03] /Users/nurseyit/.gradle/caches/transforms-3/c795caa482fab2ad0c62fd4029597206/transformed/jetified-profileinstaller-1.1.0-beta03/AndroidManifest.xml:28:13-68
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.1.0-beta03] /Users/nurseyit/.gradle/caches/transforms-3/c795caa482fab2ad0c62fd4029597206/transformed/jetified-profileinstaller-1.1.0-beta03/AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.1.0-beta03] /Users/nurseyit/.gradle/caches/transforms-3/c795caa482fab2ad0c62fd4029597206/transformed/jetified-profileinstaller-1.1.0-beta03/AndroidManifest.xml:27:13-67
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.1.0-beta03] /Users/nurseyit/.gradle/caches/transforms-3/c795caa482fab2ad0c62fd4029597206/transformed/jetified-profileinstaller-1.1.0-beta03/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.1.0-beta03] /Users/nurseyit/.gradle/caches/transforms-3/c795caa482fab2ad0c62fd4029597206/transformed/jetified-profileinstaller-1.1.0-beta03/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.1.0-beta03] /Users/nurseyit/.gradle/caches/transforms-3/c795caa482fab2ad0c62fd4029597206/transformed/jetified-profileinstaller-1.1.0-beta03/AndroidManifest.xml:32:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.1.0-beta03] /Users/nurseyit/.gradle/caches/transforms-3/c795caa482fab2ad0c62fd4029597206/transformed/jetified-profileinstaller-1.1.0-beta03/AndroidManifest.xml:36:9-45:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.1.0-beta03] /Users/nurseyit/.gradle/caches/transforms-3/c795caa482fab2ad0c62fd4029597206/transformed/jetified-profileinstaller-1.1.0-beta03/AndroidManifest.xml:39:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.1.0-beta03] /Users/nurseyit/.gradle/caches/transforms-3/c795caa482fab2ad0c62fd4029597206/transformed/jetified-profileinstaller-1.1.0-beta03/AndroidManifest.xml:40:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.1.0-beta03] /Users/nurseyit/.gradle/caches/transforms-3/c795caa482fab2ad0c62fd4029597206/transformed/jetified-profileinstaller-1.1.0-beta03/AndroidManifest.xml:41:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.1.0-beta03] /Users/nurseyit/.gradle/caches/transforms-3/c795caa482fab2ad0c62fd4029597206/transformed/jetified-profileinstaller-1.1.0-beta03/AndroidManifest.xml:38:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.1.0-beta03] /Users/nurseyit/.gradle/caches/transforms-3/c795caa482fab2ad0c62fd4029597206/transformed/jetified-profileinstaller-1.1.0-beta03/AndroidManifest.xml:37:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.1.0-beta03] /Users/nurseyit/.gradle/caches/transforms-3/c795caa482fab2ad0c62fd4029597206/transformed/jetified-profileinstaller-1.1.0-beta03/AndroidManifest.xml:42:13-44:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.1.0-beta03] /Users/nurseyit/.gradle/caches/transforms-3/c795caa482fab2ad0c62fd4029597206/transformed/jetified-profileinstaller-1.1.0-beta03/AndroidManifest.xml:43:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.1.0-beta03] /Users/nurseyit/.gradle/caches/transforms-3/c795caa482fab2ad0c62fd4029597206/transformed/jetified-profileinstaller-1.1.0-beta03/AndroidManifest.xml:43:25-88
